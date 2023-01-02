@@ -1,0 +1,20 @@
+#include<stdio.h>
+   
+ // 02/01/2023
+
+// mini problem solving 
+// Name:
+// DOB:
+// Mobile No.:
+
+int main()
+{
+
+  printf("Name  :\tMohan maali\n");
+  printf("DOB   :\tJune 05\'2004\n");
+  printf("Mobile:\t+91-9329094633");
+
+
+    
+    return 0;
+}
