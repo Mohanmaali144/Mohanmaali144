@@ -1,0 +1,26 @@
+#include<stdio.h>
+
+
+// multiplying Two floating no.
+
+// problem of programiz.com
+// Problem no.   02
+// 03/01/2023
+// Mohan maali
+// input by user
+
+int main()
+{
+   float first,second, multiple ;
+    printf("Enter a value of first:\n");
+    
+    scanf("%f",&first);
+    
+    printf("Enter a value of second\n");
+    scanf("%f",&second);
+    
+    multiple =(first*second);
+    
+    printf("%f × %f = %f",first,second,multiple);
+    return 0;
+}
