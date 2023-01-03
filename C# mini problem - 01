@@ -1,0 +1,23 @@
+#include<stdio.h>
+
+// problem of programiz.com
+// Problem no.   1
+// 03/01/2023
+// Mohan maali
+// input by user
+
+int main()
+{
+   int a,b, sum;
+    printf("Enter a value of a:\n");
+    
+    scanf("%d",&a);
+    
+    printf("Enter a value of b\n");
+    scanf("%d",&b);
+    
+    sum =(a+b);
+    
+    printf("%d + %d = %d",a,b,sum);
+    return 0;
+}
