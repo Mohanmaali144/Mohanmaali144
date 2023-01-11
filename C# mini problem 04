@@ -1,0 +1,65 @@
+#include<stdio.h>
+
+// simple calculator use switch statement 
+
+// problem no. 5
+
+// 11/01/2023
+
+int main()
+
+{
+
+   char mark;// for input mark only character 
+
+   int num1 ,num2; //for numbers stor only integer
+
+printf("Enter mark (+,-,/,*)\n");// only one chosen 
+
+scanf("%c",&mark);
+
+printf("Enter first no.\n");
+
+scanf("%d",&num1);
+
+printf("Enter a second no.\n");
+
+scanf("%d",&num2);
+
+switch(mark){// for condition explain
+
+case'+':
+
+printf("%d + %d = %d\t(plus)",num1,num2,num1+num2);
+
+break;
+
+case'-':
+
+printf("%d - %d = %d\t(mainus)",num1,num2,num1-num2);
+
+break;
+
+case'*':
+
+printf("%d × %d = %d\t(multiply)",num1,num2,num1*num2);
+
+break;
+
+case'/':
+
+printf("%d ÷ %d = %d\t(divided)",num1,num2,num1/num2);
+
+break;
+
+default:
+
+printf("!!! invalid sentax or mark;!!! ");
+
+}
+
+    printf("\t\nPrograming is so \n\n\n");
+
+    return 0;
+
+}
