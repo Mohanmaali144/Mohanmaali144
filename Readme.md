@@ -67,11 +67,6 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>&nbsp;&nbsp;
 </a>
 
-<a href="https://www.postman.com/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" width="40" height="40"/>&nbsp;&nbsp;
-</a>
-
-
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mohanmaali144&show_icons=true&theme=algolia" alt="GitHub Stats"></p>
