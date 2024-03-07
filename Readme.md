@@ -1,15 +1,15 @@
 <h1 align="center">Hey there, I'm Mohan Oon! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
-<h3 align="center">Full Stack Developer | Explorer | Coffee Lover ☕</h3>
+<h3 align="center">Full Stack Developer | Explorer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanoon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-- 🌱 Currently, I’m diving deep into **Java Spring Boot** and **Vue.js**.
+- 🤝 Currently, I'm expanding my skills in **Node.js** and **React.js**.
 
-- 🚀 I’m always eager to learn and experiment with new technologies and frameworks.
-
-- 💬 Let's chat about **web development**, **tech trends**, or even your latest favorite book!
+- 👀 I’m interested in learning new things and exploring different technologies.
 
 - 📫 How to reach me: **mohanmaali144@gmail.com**
+
+- 🔗 Check out my portfolio: [Portfolio Gallery](https://portfoliogallary.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,16 +26,19 @@
 <p align="left">
   <a href="https://www.geeksforgeeks.org/java" target="_blank"> <img src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" width="40" height="40"/>  </a>
   &nbsp;&nbsp; 
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="40" height="40"/>&nbsp;&nbsp;
+   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" width="40" height="40"/>&nbsp;&nbsp;
+
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mohanmaali144&show_icons=true&theme=algolia" alt="GitHub Stats"></p>
