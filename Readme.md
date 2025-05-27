@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Mohan Oon! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
+<h1 align="center">Hey there, I'm Mohan Maali! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 <h3 align="center">Full Stack Developer | Explorer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanoon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
